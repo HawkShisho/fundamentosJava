@@ -1,0 +1,6 @@
+var resultado = (1>2)?"Verdadero" : "Falso";
+        System.out.println("resultado = " + resultado);
+        
+        var numero = 8;
+        resultado = (numero%2==0)?"Par":"Impar";
+        System.out.println("resultado = " + resultado);
